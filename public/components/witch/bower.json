@@ -1,0 +1,35 @@
+{
+  "name": "witch",
+  "version": "0.0.0",
+  "repo": "eyy/witch",
+  "description": "A witchery Javascript MVC, based on Rivets and Watch.js",
+  "keywords": [
+    "mvc",
+    "data binding",
+    "templating"
+  ],
+  "scripts": [
+    "dist/witch.js",
+    "dist/rest.js",
+    "dist/adapter.js"
+  ],
+  "main": "dist/witch.js",
+  "license": "MIT",
+  "ignore": [
+    "example"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.2",
+    "rivets": "~0.5.8",
+    "watch": "https://raw.github.com/melanke/Watch.JS/master/src/watch.js"
+  },
+  "gitHead": "b72032b660a322a0dc3c6e0eb78b6a884f652ffa",
+  "readme": "![Witch.js](http://eyy.github.io/witch/img/icon.png)&nbsp;[Witch.js](http://eyy.github.io/witch/)\r\n=======\r\n\r\nA witchery Javascript MVC, based on [Rivets](http://rivetsjs.com/) and [Watch.js](http://qix.github.io/watch.js/)\r\n\r\n[Getting started with examples](http://eyy.github.io/witch/).\r\n\r\nInstall\r\n-------\r\n`bower install witch`\r\n\r\nUse\r\n---\r\n```html\r\n<div class=\"container\" data-rivets=\"app\">\r\n    <h1 data-text=\"config.title\"></h1>\r\n</div>\r\n\r\n<!-- scripts -->\r\n<script src=\"components/jquery/jquery.js\"></script>\r\n<script src=\"components/rivets/dist/rivets.js\"></script>\r\n<script src=\"components/watch/index.js\"></script>\r\n<script src=\"components/witch/dist/rivets-extras.js\"></script> <!-- optional -->\r\n<script src=\"components/witch/dist/rivets-adapter.js\"></script>\r\n<script src=\"components/witch/dist/witch.js\"></script>\r\n<script>\r\n    var app = {\r\n        config: {\r\n            title: 'Bewitched.'\r\n        }\r\n    };\r\n</script>\r\n```\r\n",
+  "readmeFilename": "README.md",
+  "_id": "witch@0.0.2",
+  "commit": "b72032b660a322a0dc3c6e0eb78b6a884f652ffa",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eyy/witch.git"
+  }
+}

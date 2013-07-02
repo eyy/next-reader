@@ -1,0 +1,11 @@
+header{background:url("../img/back.png");}
+header h1{font-size:120px;line-height:60px;text-shadow:#fff 5px 5px}
+header .btn{box-shadow:#fff 5px 5px}
+.container{padding:50px;width:800px}
+table{width:300px;}
+table tr .options{display:none;text-align:right}
+table tr:hover .options{display:table-cell}
+table .form-inline{margin:0}
+table .title{display:block;margin:5px 7px}
+form.add-feed{margin-top:20px}
+.items a.unread{font-weight:bold}

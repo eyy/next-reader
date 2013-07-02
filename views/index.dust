@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html data-rivets="app">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+
+    <title data-title="config.title"></title>
+
+    <link rel="stylesheet" href="/components/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+
+<header>
+    <div class="container">
+        <div class="pull-right">
+            <a href="#" class="btn">Unread</a>&nbsp;
+            <a href="#" id="bookmarklet" class="btn" data-toggle="tooltip" title="Drag to bookmark bar" data-placement="right">
+                Next Item
+            </a>
+        </div>
+
+        <h1 data-text="config.title"></h1>
+    </div>
+</header>
+
+<div class="container row">
+
+    <div class="span5">
+        <h3>Feeds</h3>
+        <table>
+            <tr data-each-feed="feeds.list">
+                <td>
+                    <a href="#" class="title"
+                       data-text="feed.title"
+                       data-unless="feed.editing"
+                       data-on-click="feed:items"></a>
+
+                    <form class="form-inline input-append" data-on-submit="feed:save" data-if="feed.editing">
+                        <input type="text" data-value="feed.title" />
+                        <button type="submit" class="btn btn-primary"><i class="icon-ok icon-white"></i></button>
+                    </form>
+                </td>
+                <td class="options">
+                    <a href="#" data-on-click="feed:delete" data-hide="feed.editing"><i class="icon-remove"></i></a>&nbsp;
+                    <a href="#" data-on-click="feed:edit"><i class="icon-pencil"></i></a>
+                </td>
+            </tr>
+        </table>
+
+        <form class="form-inline add-feed" >
+            <input type="text" name="url" placeholder="Feed URL" />&nbsp;
+            <button type="submit" class="btn">Add feed</button>
+        </form>
+    </div>
+
+    <div class="span5">
+        <ul class="items">
+            <li data-each-item="items.list">
+                <small class="muted pull-right" data-text="item.date | ago"></small>
+
+                <a target="_blank"
+                   data-href="item.url"
+                   data-on-click="item:markRead" data-default="a"
+                   data-class-unread="item.read | negate"
+                   data-text="item.title"></a>
+            </li>
+        </ul>
+    </div>
+
+</div>
+
+<!-- scripts -->
+<script src="components/jquery/jquery.js"></script>
+<script src="components/bootstrap/js/bootstrap.min.js"></script>
+<script src="components/moment/min/moment.min.js"></script>
+<script src="components/rivets/dist/rivets.js"></script>
+<script src="components/watch/index.js"></script>
+<script src="components/witch/dist/rivets-extras.js"></script>
+<script src="components/witch/dist/rivets-adapter.js"></script>
+<script src="components/witch/dist/witch.js"></script>
+<script>
+    $('#bookmarklet').tooltip('show');
+
+    rivets.formatters.ago = function (value) {
+        return moment(value).fromNow();
+    };
+
+    var Feed = witch.inherit(witch.Model, {
+        _url: '/api/feeds/',
+        edit: function() {
+            this.editing = !this.editing;
+        },
+        save: function() {
+            this.editing = false;
+            witch.Model.prototype.save.apply(this, arguments);
+        },
+        items: function() {
+            app.items.clean().fetch({
+                feed: this._id
+            });
+        }
+    });
+
+    var Item = witch.inherit(witch.Model, {
+        _url: '/api/items/',
+        markRead: function() {
+            this.read = true;
+            this.save();
+        }
+    });
+
+    var app = {
+        config: {
+            title: 'Next reader'
+        },
+        feeds: new witch.Collection([], Feed),
+        items: new witch.Collection([], Item)
+    };
+    app.feeds.fetch();
+</script>
+
+</body>
+</html>
+

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>מנויים של etai ב-Google Reader</title>
+    </head>
+    <body>
+        <outline title="אדריכלות" text="אדריכלות">
+            <outline text="ארגון נוסעי התחבורה הציבורית בישראל"
+                title="ארגון נוסעי התחבורה הציבורית בישראל" type="rss"
+                xmlUrl="http://tahbura.wordpress.com/feed/" htmlUrl="http://tahbura.wordpress.com"/>
+            <outline text="‫עוד בלוג תל-אביבי‬"
+                title="‫עוד בלוג תל-אביבי‬" type="rss"
+                xmlUrl="http://feeds.feedburner.com/lerman" htmlUrl="http://www.tlv1.co.il"/>
+        </outline>
+        <outline title="קומיקס" text="קומיקס">
+            <outline text="Cat and Girl" title="Cat and Girl" type="rss"
+                xmlUrl="http://catandgirl.com/?feed=rss2" htmlUrl="http://catandgirl.com"/>
+            <outline text="Dinosaur Comics" title="Dinosaur Comics"
+                type="rss"
+                xmlUrl="http://www.rsspect.com/rss/qwantz.xml" htmlUrl="http://www.qwantz.com"/>
+            <outline
+                text="Saturday Morning Breakfast Cereal (updated daily)"
+                title="Saturday Morning Breakfast Cereal (updated daily)"
+                type="rss" xmlUrl="http://www.smbc-comics.com/rss.php" htmlUrl="http://www.smbc-comics.com"/>
+            <outline text="xkcd" title="xkcd" type="rss"
+                xmlUrl="http://blog.xkcd.com/feed/" htmlUrl="http://blog.xkcd.com"/>
+            <outline text="xkcd.com" title="xkcd.com" type="rss"
+                xmlUrl="http://xkcd.com/atom.xml" htmlUrl="http://xkcd.com/"/>
+            <outline text="‫בום פאף פאו אקשן!‬"
+                title="‫בום פאף פאו אקשן!‬" type="rss"
+                xmlUrl="http://www.bppacomics.info/?feed=rss2" htmlUrl="http://www.bppacomics.info"/>
+        </outline>
+        <outline title="תרבות" text="תרבות">
+            <outline text="ארץ האמורי" title="ארץ האמורי" type="rss"
+                xmlUrl="http://haemori.wordpress.com/feed/" htmlUrl="http://haemori.wordpress.com"/>
+            <outline text="הבלוג של אייל דותן"
+                title="הבלוג של אייל דותן" type="rss"
+                xmlUrl="http://eyaldotan.com/feed/" htmlUrl="http://eyaldotan.com"/>
+            <outline text="העוקץ" title="העוקץ" type="rss"
+                xmlUrl="http://www.oketz.com/index.xml" htmlUrl="http://www.oketz.com/"/>
+            <outline text="הערות שוליים לאפלטון"
+                title="הערות שוליים לאפלטון" type="rss"
+                xmlUrl="http://shelberman.blogli.co.il/feed/" htmlUrl="http://shelberman.wordpress.com"/>
+            <outline text="לולאת האל" title="לולאת האל" type="rss"
+                xmlUrl="http://tomerpersico.com/feed/" htmlUrl="http://tomerpersico.com"/>
+            <outline text="‫גם-שם‬" title="‫גם-שם‬" type="rss"
+                xmlUrl="http://www.hahem.co.il/gamsham/?feed=rss2" htmlUrl="http://www.hahem.co.il/gamsham"/>
+            <outline text="‫הסיפור האמיתי והמזעזע של‬"
+                title="‫הסיפור האמיתי והמזעזע של‬" type="rss"
+                xmlUrl="http://www.hahem.co.il/trueandshocking/?feed=atom" htmlUrl="http://www.hahem.co.il/trueandshocking"/>
+            <outline text="‫קורות ממלכת עילם‬"
+                title="‫קורות ממלכת עילם‬" type="rss"
+                xmlUrl="http://feeds.feedburner.com/http/wwweilamorg/feedrss2" htmlUrl="http://eilam.org"/>
+            <outline text="‫תודעה כוזבת‬" title="‫תודעה כוזבת‬"
+                type="rss" xmlUrl="http://hahem.co.il/false/feed" htmlUrl="http://hahem.co.il/false"/>
+        </outline>
+        <outline title="A" text="A">
+            <outline text="Cat and Girl" title="Cat and Girl" type="rss"
+                xmlUrl="http://catandgirl.com/?feed=rss2" htmlUrl="http://catandgirl.com"/>
+            <outline text="Dinosaur Comics" title="Dinosaur Comics"
+                type="rss"
+                xmlUrl="http://www.rsspect.com/rss/qwantz.xml" htmlUrl="http://www.qwantz.com"/>
+            <outline text="Instapaper: Unread"
+                title="Instapaper: Unread" type="rss"
+                xmlUrl="http://www.instapaper.com/rss/2117642/1KZhCr01uWPhjkwRT555wVAX3w" htmlUrl="http://www.instapaper.com/u"/>
+            <outline
+                text="Saturday Morning Breakfast Cereal (updated daily)"
+                title="Saturday Morning Breakfast Cereal (updated daily)"
+                type="rss" xmlUrl="http://www.smbc-comics.com/rss.php" htmlUrl="http://www.smbc-comics.com"/>
+            <outline text="What If?" title="What If?" type="rss"
+                xmlUrl="http://what-if.xkcd.com/feed.atom" htmlUrl="http://what-if.xkcd.com"/>
+            <outline text="xkcd" title="xkcd" type="rss"
+                xmlUrl="http://blog.xkcd.com/feed/" htmlUrl="http://blog.xkcd.com"/>
+            <outline text="xkcd.com" title="xkcd.com" type="rss"
+                xmlUrl="http://xkcd.com/atom.xml" htmlUrl="http://xkcd.com/"/>
+            <outline text="ארגון נוסעי התחבורה הציבורית בישראל"
+                title="ארגון נוסעי התחבורה הציבורית בישראל" type="rss"
+                xmlUrl="http://tahbura.wordpress.com/feed/" htmlUrl="http://tahbura.wordpress.com"/>
+            <outline text="ארץ האמורי" title="ארץ האמורי" type="rss"
+                xmlUrl="http://haemori.wordpress.com/feed/" htmlUrl="http://haemori.wordpress.com"/>
+            <outline text="בלשנות עברית ישראלית"
+                title="בלשנות עברית ישראלית" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=90303" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=90303"/>
+            <outline text="דְּבָרִים בִּבְלוֹגוֹ"
+                title="דְּבָרִים בִּבְלוֹגוֹ" type="rss"
+                xmlUrl="http://amihay.wordpress.com/feed/" htmlUrl="https://amihay.wordpress.com"/>
+            <outline text="דגש קל | כי שפה אנושית זה כיף גדול"
+                title="דגש קל | כי שפה אנושית זה כיף גדול" type="rss"
+                xmlUrl="http://feeds.feedburner.com/dagesh" htmlUrl="http://dagesh.wordpress.com"/>
+            <outline text="הבלוג של אייל דותן"
+                title="הבלוג של אייל דותן" type="rss"
+                xmlUrl="http://eyaldotan.com/feed/" htmlUrl="http://eyaldotan.com"/>
+            <outline text="החיים בהיר" title="החיים בהיר" type="rss"
+                xmlUrl="http://drorfo.wordpress.com/feed/" htmlUrl="http://drorfo.wordpress.com"/>
+            <outline text="העוקץ" title="העוקץ" type="rss"
+                xmlUrl="http://www.oketz.com/index.xml" htmlUrl="http://www.oketz.com/"/>
+            <outline text="הערות שוליים לאפלטון"
+                title="הערות שוליים לאפלטון" type="rss"
+                xmlUrl="http://shelberman.blogli.co.il/feed/" htmlUrl="http://shelberman.wordpress.com"/>
+            <outline text="חיפושים כמשל" title="חיפושים כמשל" type="rss"
+                xmlUrl="http://haharoni.wordpress.com/feed/atom/" htmlUrl="http://haharoni.wordpress.com/"/>
+            <outline text="לולאת האל" title="לולאת האל" type="rss"
+                xmlUrl="http://tomerpersico.com/feed/" htmlUrl="http://tomerpersico.com"/>
+            <outline text="לחץ חברתי" title="לחץ חברתי" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=248943" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=248943"/>
+            <outline text="מלמולים טכנולוגיים"
+                title="מלמולים טכנולוגיים" type="rss"
+                xmlUrl="http://ozzyboy.wordpress.com/feed/" htmlUrl="http://ozzyboy.wordpress.com"/>
+            <outline text="מסה קריטית" title="מסה קריטית" type="rss"
+                xmlUrl="http://nicecriticalmass.blogspot.com/feeds/posts/default" htmlUrl="http://nicecriticalmass.blogspot.com/"/>
+            <outline text="מקפים לוהטים" title="מקפים לוהטים" type="rss"
+                xmlUrl="http://feeds.feedburner.com/blazinghyphens" htmlUrl="http://blazinghyphens.wordpress.com"/>
+            <outline text="נביא שקר" title="נביא שקר" type="rss"
+                xmlUrl="http://navisheker.wordpress.com/feed/" htmlUrl="http://navisheker.wordpress.com"/>
+            <outline text="עברית שפה קשה" title="עברית שפה קשה"
+                type="rss"
+                xmlUrl="http://hebrewlog.blogspot.com/feeds/posts/default" htmlUrl="http://hebrewlog.blogspot.com/"/>
+            <outline text="פלצן מתנשא" title="פלצן מתנשא" type="rss"
+                xmlUrl="http://nimrodlin.blogli.co.il/feed/" htmlUrl="http://intellectualdouchbag.wordpress.com"/>
+            <outline text="פרייהייט" title="פרייהייט" type="rss"
+                xmlUrl="http://yohaicohendotcom.wordpress.com/feed/" htmlUrl="http://yohaicohendotcom.wordpress.com"/>
+            <outline text="קו חוץ" title="קו חוץ" type="rss"
+                xmlUrl="http://kavhutz.wordpress.com/feed/" htmlUrl="http://kavhutz.wordpress.com"/>
+            <outline
+                text="תיקון עולם » מהפכה במצרים: מיליון סימני שאלה והבנה אחת בהירה"
+                title="תיקון עולם » מהפכה במצרים: מיליון סימני שאלה והבנה אחת בהירה"
+                type="rss" xmlUrl="http://tikunolam.co.il/feed/" htmlUrl="http://tikunolam.co.il"/>
+            <outline text="‫ha.ckers‬" title="‫ha.ckers‬" type="rss"
+                xmlUrl="http://ha.ckers.org.il/feed/" htmlUrl="http://ha.ckers.org.il"/>
+            <outline text="‫אקטיביזם הוא קוד פתוח‬"
+                title="‫אקטיביזם הוא קוד פתוח‬" type="rss"
+                xmlUrl="http://www.activismos.com/?feed=rss2" htmlUrl="http://www.activismos.com"/>
+            <outline text="‫בום פאף פאו אקשן!‬"
+                title="‫בום פאף פאו אקשן!‬" type="rss"
+                xmlUrl="http://www.bppacomics.info/?feed=rss2" htmlUrl="http://www.bppacomics.info"/>
+            <outline text="‫בלשנות אונליין" title="‫בלשנות אונליין"
+                type="rss"
+                xmlUrl="http://www.gabidanon.info/heb/index.php/feed/atom" htmlUrl="http://www.gabidanon.info/heb"/>
+            <outline text="‫גם-שם‬" title="‫גם-שם‬" type="rss"
+                xmlUrl="http://www.hahem.co.il/gamsham/?feed=rss2" htmlUrl="http://www.hahem.co.il/gamsham"/>
+            <outline text="‫דיסוננס קוגניטיבי"
+                title="‫דיסוננס קוגניטיבי" type="rss"
+                xmlUrl="http://www.tntforthebrain.com/feed/" htmlUrl="http://www.tntforthebrain.com"/>
+            <outline text="‫החברים של ג'ורג'‬"
+                title="‫החברים של ג'ורג'‬" type="rss"
+                xmlUrl="http://www.hahem.co.il/friendsofgeorge/?feed=rss2" htmlUrl="http://www.hahem.co.il/friendsofgeorge"/>
+            <outline text="‫הסיפור האמיתי והמזעזע של‬"
+                title="‫הסיפור האמיתי והמזעזע של‬" type="rss"
+                xmlUrl="http://www.hahem.co.il/trueandshocking/?feed=atom" htmlUrl="http://www.hahem.co.il/trueandshocking"/>
+            <outline text="‫יואב קרני בוושינגטון‬"
+                title="‫יואב קרני בוושינגטון‬" type="rss"
+                xmlUrl="http://feeds.feedburner.com/yoavkarny/feed" htmlUrl="http://yoavkarny.com"/>
+            <outline text="‫יונית מוזס‬" title="‫יונית מוזס‬" type="rss"
+                xmlUrl="http://www.yonitmozes.com/?feed=rss2" htmlUrl="http://www.yonitmozes.com"/>
+            <outline text="‫לא שומעים!‬" title="‫לא שומעים!‬" type="rss"
+                xmlUrl="http://feeds.feedburner.com/iods" htmlUrl="http://dubikan.com"/>
+            <outline text="‫מאבד תמלילים - הגלוב‬"
+                title="‫מאבד תמלילים - הגלוב‬" type="rss"
+                xmlUrl="http://www.popup.co.il/?feed=rss2" htmlUrl="http://www.popup.co.il"/>
+            <outline text="‫מדע בזיוני‬" title="‫מדע בזיוני‬" type="rss"
+                xmlUrl="http://feeds.feedburner.com/scifri" htmlUrl="http://www.sciencefriction.net/blog"/>
+            <outline text="‫סוכן זוטר, מקסימום לבלר‬"
+                title="‫סוכן זוטר, מקסימום לבלר‬" type="rss"
+                xmlUrl="http://www.hahem.co.il/mermit/feed/" htmlUrl="http://www.hahem.co.il/mermit"/>
+            <outline text="‫סוכן זוטר, מקסימום לבלר‬"
+                title="‫סוכן זוטר, מקסימום לבלר‬" type="rss"
+                xmlUrl="http://feeds.feedburner.com/mind-fucking/oXhq" htmlUrl="http://www.hahem.co.il/mermit"/>
+            <outline text="‫עברית וחיות אחרות‬"
+                title="‫עברית וחיות אחרות‬" type="rss"
+                xmlUrl="http://www.thmrsite.com/?feed=rss2" htmlUrl="http://www.thmrsite.com"/>
+            <outline text="‫עוד בלוג תל-אביבי‬"
+                title="‫עוד בלוג תל-אביבי‬" type="rss"
+                xmlUrl="http://feeds.feedburner.com/lerman" htmlUrl="http://www.tlv1.co.il"/>
+            <outline text="‫עתיד מזהיר‬" title="‫עתיד מזהיר‬" type="rss"
+                xmlUrl="http://www.mazhir.com/?feed=rss2" htmlUrl="http://www.mazhir.com"/>
+            <outline text="‫קורות ממלכת עילם‬"
+                title="‫קורות ממלכת עילם‬" type="rss"
+                xmlUrl="http://feeds.feedburner.com/http/wwweilamorg/feedrss2" htmlUrl="http://eilam.org"/>
+            <outline text="‫תודעה כוזבת‬" title="‫תודעה כוזבת‬"
+                type="rss" xmlUrl="http://hahem.co.il/false/feed" htmlUrl="http://hahem.co.il/false"/>
+            <outline text="‫תחשוב טעים, יהיה טעים.‬"
+                title="‫תחשוב טעים, יהיה טעים.‬" type="rss"
+                xmlUrl="http://feeds2.feedburner.com/amsterdamski" htmlUrl="http://amsterdamski.com"/>
+            <outline text="‫תניח את המספריים ובוא נדבר על זה‬"
+                title="‫תניח את המספריים ובוא נדבר על זה‬" type="rss"
+                xmlUrl="http://www.hahem.co.il/scissors/?feed=rss2" htmlUrl="http://www.hahem.co.il/scissors"/>
+        </outline>
+        <outline title="B" text="B">
+            <outline text="Changes." title="Changes." type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=716332" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fisrablog.nana10.co.il%2Fblog_rss.asp%3Fblog%3D716332"/>
+            <outline text="lessismore" title="lessismore" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=652290" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=652290"/>
+            <outline text="moons in june" title="moons in june"
+                type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=600787" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=600787"/>
+            <outline text="Once more with Feeling"
+                title="Once more with Feeling" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=228063" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=228063"/>
+            <outline text="Park Life" title="Park Life" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=95614" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=95614"/>
+            <outline text="Routine" title="Routine" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=821683" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fisrablog.nana10.co.il%2Fblog_rss.asp%3Fblog%3D821683"/>
+            <outline text="Sins" title="Sins" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=760501" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fisrablog.nana10.co.il%2Fblog_rss.asp%3Fblog%3D760501"/>
+            <outline text="Sound Of Silence" title="Sound Of Silence"
+                type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=120168" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=120168"/>
+            <outline text="The girl from Pwndland"
+                title="The girl from Pwndland" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=539380" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=539380"/>
+            <outline text="אותו יום, ספסל אחר"
+                title="אותו יום, ספסל אחר" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=86003" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=86003"/>
+            <outline text="אי ודאות" title="אי ודאות" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=676577" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=676577"/>
+            <outline text="אננס של שינוי" title="אננס של שינוי"
+                type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=805181" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=805181"/>
+            <outline text="אשת העגלה" title="אשת העגלה" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=110718" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=110718"/>
+            <outline text="בלוגינקה." title="בלוגינקה." type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=814477" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=814477"/>
+            <outline text="האיש שישן יותר מדי"
+                title="האיש שישן יותר מדי" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=365213" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=365213"/>
+            <outline text="ואיך זה שאנחנו יודעים לנשום"
+                title="ואיך זה שאנחנו יודעים לנשום" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=102819" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=102819"/>
+            <outline text="ואין מה לומר" title="ואין מה לומר" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=581881" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=581881"/>
+            <outline text="חורגת" title="חורגת" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=454677" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=454677"/>
+            <outline text="יסודות" title="יסודות" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=105779" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=105779"/>
+            <outline text="כישוף כושל" title="כישוף כושל" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=261937" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=261937"/>
+            <outline text="כל מה שאת צריכה עכשיו זה"
+                title="כל מה שאת צריכה עכשיו זה" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=811700" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=811700"/>
+            <outline text="לא לווייתנים." title="לא לווייתנים."
+                type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=41554" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=41554"/>
+            <outline text="לא עומדת בהמנון" title="לא עומדת בהמנון"
+                type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=183623" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=183623"/>
+            <outline text="לתִּפְאֶרֶת." title="לתִּפְאֶרֶת." type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=629636" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=629636"/>
+            <outline text="מסקנות." title="מסקנות." type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=186797" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=186797"/>
+            <outline text="מרחוק זה נראה אמיתי"
+                title="מרחוק זה נראה אמיתי" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=43065" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=43065"/>
+            <outline text="נאמן למקור" title="נאמן למקור" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=755421" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=755421"/>
+            <outline text="ניב מהבלוק" title="ניב מהבלוק" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=606708" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=606708"/>
+            <outline text="פלונטר" title="פלונטר" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=45065" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=45065"/>
+            <outline text="צ'ארלי קצת פחות" title="צ'ארלי קצת פחות"
+                type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=290554" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=290554"/>
+            <outline text="צוֹחֶקֶת בְּקוֹל פַּעֲמוֹן שֶׁנִּסְדַּק"
+                title="צוֹחֶקֶת בְּקוֹל פַּעֲמוֹן שֶׁנִּסְדַּק"
+                type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=248595" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=248595"/>
+            <outline text="צח כשלג" title="צח כשלג" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=349387" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=349387"/>
+            <outline text="שכול וכישלון" title="שכול וכישלון" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=680345" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fisrablog.nana10.co.il%2Fblog_rss.asp%3Fblog%3D680345"/>
+            <outline text="שלום?" title="שלום?" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=671230" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=671230"/>
+            <outline text="שקשק וגלגל" title="שקשק וגלגל" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=809173" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=809173"/>
+            <outline text="שרמוטה פוריטנית" title="שרמוטה פוריטנית"
+                type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=720823" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=720823"/>
+            <outline text="תחום הגדרה:" title="תחום הגדרה:" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=27203" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=27203"/>
+        </outline>
+        <outline title="פוליטיקה" text="פוליטיקה">
+            <outline text="ארץ האמורי" title="ארץ האמורי" type="rss"
+                xmlUrl="http://haemori.wordpress.com/feed/" htmlUrl="http://haemori.wordpress.com"/>
+            <outline text="דְּבָרִים בִּבְלוֹגוֹ"
+                title="דְּבָרִים בִּבְלוֹגוֹ" type="rss"
+                xmlUrl="http://amihay.wordpress.com/feed/" htmlUrl="https://amihay.wordpress.com"/>
+            <outline text="החיים בהיר" title="החיים בהיר" type="rss"
+                xmlUrl="http://drorfo.wordpress.com/feed/" htmlUrl="http://drorfo.wordpress.com"/>
+            <outline text="לחץ חברתי" title="לחץ חברתי" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=248943" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=248943"/>
+            <outline text="פלצן מתנשא" title="פלצן מתנשא" type="rss"
+                xmlUrl="http://nimrodlin.blogli.co.il/feed/" htmlUrl="http://intellectualdouchbag.wordpress.com"/>
+            <outline text="קו חוץ" title="קו חוץ" type="rss"
+                xmlUrl="http://kavhutz.wordpress.com/feed/" htmlUrl="http://kavhutz.wordpress.com"/>
+            <outline
+                text="תיקון עולם » מהפכה במצרים: מיליון סימני שאלה והבנה אחת בהירה"
+                title="תיקון עולם » מהפכה במצרים: מיליון סימני שאלה והבנה אחת בהירה"
+                type="rss" xmlUrl="http://tikunolam.co.il/feed/" htmlUrl="http://tikunolam.co.il"/>
+            <outline text="‫אקטיביזם הוא קוד פתוח‬"
+                title="‫אקטיביזם הוא קוד פתוח‬" type="rss"
+                xmlUrl="http://www.activismos.com/?feed=rss2" htmlUrl="http://www.activismos.com"/>
+            <outline text="‫החברים של ג'ורג'‬"
+                title="‫החברים של ג'ורג'‬" type="rss"
+                xmlUrl="http://www.hahem.co.il/friendsofgeorge/?feed=rss2" htmlUrl="http://www.hahem.co.il/friendsofgeorge"/>
+            <outline text="‫יואב קרני בוושינגטון‬"
+                title="‫יואב קרני בוושינגטון‬" type="rss"
+                xmlUrl="http://feeds.feedburner.com/yoavkarny/feed" htmlUrl="http://yoavkarny.com"/>
+            <outline text="‫יונית מוזס‬" title="‫יונית מוזס‬" type="rss"
+                xmlUrl="http://www.yonitmozes.com/?feed=rss2" htmlUrl="http://www.yonitmozes.com"/>
+            <outline text="‫לא שומעים!‬" title="‫לא שומעים!‬" type="rss"
+                xmlUrl="http://feeds.feedburner.com/iods" htmlUrl="http://dubikan.com"/>
+            <outline text="‫סוכן זוטר, מקסימום לבלר‬"
+                title="‫סוכן זוטר, מקסימום לבלר‬" type="rss"
+                xmlUrl="http://feeds.feedburner.com/mind-fucking/oXhq" htmlUrl="http://www.hahem.co.il/mermit"/>
+            <outline text="‫עתיד מזהיר‬" title="‫עתיד מזהיר‬" type="rss"
+                xmlUrl="http://www.mazhir.com/?feed=rss2" htmlUrl="http://www.mazhir.com"/>
+            <outline text="‫תחשוב טעים, יהיה טעים.‬"
+                title="‫תחשוב טעים, יהיה טעים.‬" type="rss"
+                xmlUrl="http://feeds2.feedburner.com/amsterdamski" htmlUrl="http://amsterdamski.com"/>
+            <outline text="‫תניח את המספריים ובוא נדבר על זה‬"
+                title="‫תניח את המספריים ובוא נדבר על זה‬" type="rss"
+                xmlUrl="http://www.hahem.co.il/scissors/?feed=rss2" htmlUrl="http://www.hahem.co.il/scissors"/>
+        </outline>
+        <outline title="שפה" text="שפה">
+            <outline text="בלשנות עברית ישראלית"
+                title="בלשנות עברית ישראלית" type="rss"
+                xmlUrl="http://israblog.nana10.co.il/blog_rss.asp?blog=90303" htmlUrl="http://israblog.nana10.co.il/blogread.asp?blog=90303"/>
+            <outline text="דגש קל | כי שפה אנושית זה כיף גדול"
+                title="דגש קל | כי שפה אנושית זה כיף גדול" type="rss"
+                xmlUrl="http://feeds.feedburner.com/dagesh" htmlUrl="http://dagesh.wordpress.com"/>
+            <outline text="חיפושים כמשל" title="חיפושים כמשל" type="rss"
+                xmlUrl="http://haharoni.wordpress.com/feed/atom/" htmlUrl="http://haharoni.wordpress.com/"/>
+            <outline text="מקפים לוהטים" title="מקפים לוהטים" type="rss"
+                xmlUrl="http://feeds.feedburner.com/blazinghyphens" htmlUrl="http://blazinghyphens.wordpress.com"/>
+            <outline text="עברית שפה קשה" title="עברית שפה קשה"
+                type="rss"
+                xmlUrl="http://hebrewlog.blogspot.com/feeds/posts/default" htmlUrl="http://hebrewlog.blogspot.com/"/>
+            <outline text="‫בלשנות אונליין" title="‫בלשנות אונליין"
+                type="rss"
+                xmlUrl="http://www.gabidanon.info/heb/index.php/feed/atom" htmlUrl="http://www.gabidanon.info/heb"/>
+            <outline text="‫מדע בזיוני‬" title="‫מדע בזיוני‬" type="rss"
+                xmlUrl="http://feeds.feedburner.com/scifri" htmlUrl="http://www.sciencefriction.net/blog"/>
+            <outline text="‫עברית וחיות אחרות‬"
+                title="‫עברית וחיות אחרות‬" type="rss"
+                xmlUrl="http://www.thmrsite.com/?feed=rss2" htmlUrl="http://www.thmrsite.com"/>
+        </outline>
+    </body>
+</opml>

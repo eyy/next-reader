@@ -1,0 +1,10 @@
+{
+  "name": "next-reader",
+  "version": "0.0.2",
+  "dependencies": {
+    "jquery": "*",
+    "bootstrap": "http://twitter.github.com/bootstrap/assets/bootstrap.zip",
+    "witch": "*",
+    "moment": "~2.0.0"
+  }
+}
